@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://www.linkedin.com/newsletters/COLE-AQUI-O-ENDERECO-FINAL",
+      "destination": "https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7400255319982911488",
       "permanent": false
     }
   ]
